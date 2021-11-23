@@ -1,0 +1,16 @@
+C:\Gus\curso\cs\ex02.1\bin\Debug\net5.0\ex02.1.exe
+C:\Gus\curso\cs\ex02.1\bin\Debug\net5.0\ex02.1.deps.json
+C:\Gus\curso\cs\ex02.1\bin\Debug\net5.0\ex02.1.runtimeconfig.json
+C:\Gus\curso\cs\ex02.1\bin\Debug\net5.0\ex02.1.runtimeconfig.dev.json
+C:\Gus\curso\cs\ex02.1\bin\Debug\net5.0\ex02.1.dll
+C:\Gus\curso\cs\ex02.1\bin\Debug\net5.0\ref\ex02.1.dll
+C:\Gus\curso\cs\ex02.1\bin\Debug\net5.0\ex02.1.pdb
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.csproj.AssemblyReference.cache
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.AssemblyInfoInputs.cache
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.AssemblyInfo.cs
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.csproj.CoreCompileInputs.cache
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.dll
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ref\ex02.1.dll
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.pdb
+C:\Gus\curso\cs\ex02.1\obj\Debug\net5.0\ex02.1.genruntimeconfig.cache
